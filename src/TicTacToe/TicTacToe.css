@@ -14,6 +14,7 @@ table td{
     flex-direction: column;
     justify-content: center;
     align-items:center;
+    text-align: center;
     min-height: 100vh;
     font: 3rem "Apple Chancery", cursive;
     color: #8B008B;
