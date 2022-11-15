@@ -1,0 +1,30 @@
+table td{
+    border: 8px solid #6495ED;
+    border-radius: 20px;
+    width: 150px;
+    height: 150px;
+    vertical-align: middle;
+    justify-content: center;
+    font: 3rem "Apple Chancery", cursive;
+    color: #8B008B;
+}
+
+.cell{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    min-height: 100vh;
+    font: 3rem "Apple Chancery", cursive;
+    color: #8B008B;
+    background-color: #f5f5dc;
+}
+
+button{
+    font: 3rem "Apple Chancery", cursive;
+    color: white;
+    background-color: #8B008B;
+    border: 1px solid #8B008B;
+    border-radius: 20px;
+    padding: 10px 10px;
+}
