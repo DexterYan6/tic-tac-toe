@@ -3,8 +3,8 @@ table td{
     border-radius: 20px;
     width: 150px;
     height: 150px;
+    text-align: center;
     vertical-align: middle;
-    justify-content: center;
     font: 3rem "Apple Chancery", cursive;
     color: #8B008B;
 }
@@ -21,6 +21,8 @@ table td{
 }
 
 button{
+    display: block;
+    margin: 0 auto;
     font: 3rem "Apple Chancery", cursive;
     color: white;
     background-color: #8B008B;
